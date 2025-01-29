@@ -1,4 +1,4 @@
-package controller;
+package com.spring.batch.demo.controller;
 
 import com.spring.batch.demo.service.JobService;
 import org.springframework.beans.factory.annotation.Autowired;
